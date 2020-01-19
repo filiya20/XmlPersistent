@@ -1,0 +1,16 @@
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project2Starter\ItemFactory\bin\Debug\ItemFactory.exe.config
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project2Starter\ItemFactory\bin\Debug\ItemFactory.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project2Starter\ItemFactory\bin\Debug\ItemFactory.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project2Starter\ItemFactory\bin\Debug\DBElement.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project2Starter\ItemFactory\bin\Debug\DBEngine.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project2Starter\ItemFactory\bin\Debug\DBExtensions.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project2Starter\ItemFactory\bin\Debug\TestExec.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project2Starter\ItemFactory\bin\Debug\UtilityExtensions.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project2Starter\ItemFactory\bin\Debug\DBElement.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project2Starter\ItemFactory\bin\Debug\DBEngine.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project2Starter\ItemFactory\bin\Debug\DBExtensions.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project2Starter\ItemFactory\bin\Debug\TestExec.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project2Starter\ItemFactory\bin\Debug\UtilityExtensions.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project2Starter\ItemFactory\obj\Debug\ItemFactory.csprojResolveAssemblyReference.cache
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project2Starter\ItemFactory\obj\Debug\ItemFactory.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project2Starter\ItemFactory\obj\Debug\ItemFactory.pdb
